@@ -1,0 +1,6 @@
+1. install nodejs
+
+
+2. to run : npm run dev
+
+3. to build run : npm run build
